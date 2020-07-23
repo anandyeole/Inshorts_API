@@ -1,5 +1,4 @@
 # Inshorts_API
-# Inshorts News API [Unofficial]
 ---
 This API is capable of fetching news contents from various sources as gathered by Inshorts app.
 
@@ -88,6 +87,6 @@ Install all dependencies listed in *requirements.txt* file.
 
 #### Star the Repo in case you liked it :)
 
-##Credits
+## Credits
 
 inspired from [Sumanjay](https://github.com/cyberboysumanjay/Inshorts-News-API)
