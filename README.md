@@ -31,7 +31,7 @@ Make a get request specifying the category of news you want
 ```
 https://inshortsnews.herokuapp.com/{category_name}
 ```
-Example - https://inshortsapi.herokuapp.com/science
+Example - https://inshortsnews.herokuapp.com/science
 
 ---
 
